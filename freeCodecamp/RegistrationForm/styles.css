@@ -36,10 +36,12 @@ label {
 }
 
 input,
-textarea,
-select {
+textarea {
   margin: 10px 0 0 0;
   width: 100%;
+  background-color: #0a0a23;
+  border-color: solid #0a0a23;
+  textarea:
 }
 
 .inline {
@@ -49,4 +51,6 @@ select {
   margin-bottom: 0;
   margin-right: 0.5em;
   margin-left: 0;
+  vertical-align: middle;
+  a
 }
